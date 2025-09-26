@@ -1,0 +1,16 @@
+.body{
+    background-color: rgb(140, 145, 145);
+}
+.sidebar{
+    background-color: white;
+    min-height: 890px;
+    border-right: 1px solid #ffffff;
+    border-left: 1px solid #878383;
+}
+
+/* .nav-item{
+    margin-left: 200px;
+} */
+#item{
+    margin-left: 200px;
+}

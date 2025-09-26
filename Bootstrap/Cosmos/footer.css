@@ -1,0 +1,8 @@
+.list-group-item >a{
+    text-decoration: none;
+    color: black;
+}
+.breadcrumb >.breadcrumb-item >.a{
+    color: black;
+    text-decoration: none;
+}

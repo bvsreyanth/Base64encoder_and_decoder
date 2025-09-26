@@ -1,0 +1,16 @@
+Bootstrap Containers
+-Important and basic layout elements in bootstrap
+-their are 2 types of Containers-
+        <div class ="container"></div> //fixed width
+        <div class = "container-fluid"></div> //100% of the width 
+Fluid--always occupy 100% width of the device screen 
+Bootstrap grid --divide into 12 columns in a row
+Grd- consits of rows and columns
+  - in one row we can have maximun of 12 columns using bootstrap
+  
+==> Grid Classes
+ .col-extra small devices
+ .col-sm -small devices
+ .col-md -medium devices
+ .col-lg -large devices
+ .col-xl -X large devices

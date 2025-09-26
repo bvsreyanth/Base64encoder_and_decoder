@@ -1,0 +1,12 @@
+.sidebar{
+    background-color: lightgray;
+    height: 100vh;
+    overflow-y: auto;
+}
+.main-content {
+    background-color: lightgrey; 
+    height: 100vh;
+}
+#customDate{
+    background-color:blueviolet;
+}

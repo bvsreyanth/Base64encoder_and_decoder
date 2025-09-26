@@ -1,0 +1,23 @@
+.body{
+    background-color: #ddd;
+}
+.header{
+    height: 60px;
+    text-align: center;
+}
+.content{
+
+    height: 600px;
+    text-align: center;
+}
+.main-content{
+    height: 600px;
+}
+.footer{
+    height: 60px;
+    text-align: center;
+   
+}
+.overflow-auto{
+    overflow-y: scroll;
+}
